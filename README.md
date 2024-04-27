@@ -1,4 +1,4 @@
-# RTShowInfo
+
 
 #### 介绍
 Glyphs3 Base插件  Glyphs数据统计。
